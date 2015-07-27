@@ -1,0 +1,1 @@
+dx --dex --output=ajar.jar dynamic.jar

@@ -24,6 +24,9 @@ public final class R {
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
+    public static final class id {
+        public static final int btn=0x7f070000;
+    }
     public static final class layout {
         public static final int activity_main=0x7f030000;
     }
