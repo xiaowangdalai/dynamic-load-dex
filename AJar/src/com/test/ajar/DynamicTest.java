@@ -4,7 +4,7 @@ public class DynamicTest implements IDynamic {
 
 	@Override
 	public String helloWorld() {
-		return "Hello World!";
+		return "Hello 5 Jar!";
 	}
 
 }
