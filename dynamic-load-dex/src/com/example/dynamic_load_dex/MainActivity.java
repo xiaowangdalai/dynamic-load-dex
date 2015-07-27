@@ -14,6 +14,7 @@ import dalvik.system.DexClassLoader;
 
 public class MainActivity extends Activity {
 	
+	// 把jar文件手动放到sdcard的这个目录下
 	private static final String DEX_PATH = "/dynamic-jar-test/ajar.jar";
 
 	@Override
